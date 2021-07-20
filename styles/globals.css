@@ -18,3 +18,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.WhiteText {
+  @apply text-sm font-bold text-gray-100;
+}
