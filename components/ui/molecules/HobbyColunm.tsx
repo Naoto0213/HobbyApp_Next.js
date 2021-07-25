@@ -1,6 +1,6 @@
-import DecorateBorderTitle from "../ui/atoms/DecorateBorderTitle";
-import DecorateMiniCard from "../ui/atoms/DecorateMiniCard";
-import { HOME } from "../../config/home";
+import DecorateBorderTitle from "../atoms/DecorateBorderTitle";
+import DecorateMiniCard from "../atoms/DecorateMiniCard";
+import { HOME } from "../../../config/home";
 
 const HobbyColunm = () => {
   return (

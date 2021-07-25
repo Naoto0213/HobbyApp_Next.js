@@ -1,6 +1,6 @@
 import Header from "../components/common/header/Header";
 import { Main } from "../components/home/Main";
-import HobbyColunm from "../components/home/HobbyColunm";
+import HobbyColunm from "../components/ui/molecules/HobbyColunm";
 
 export default function Home() {
   return (
